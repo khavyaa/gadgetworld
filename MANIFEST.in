@@ -1,0 +1,4 @@
+include customer/
+graft customer/static
+graft customer/templates
+global-exclude *.pyc

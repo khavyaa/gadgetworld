@@ -1,0 +1,8 @@
+MANIFEST.in
+setup.py
+Gadget_World.egg-info/PKG-INFO
+Gadget_World.egg-info/SOURCES.txt
+Gadget_World.egg-info/dependency_links.txt
+Gadget_World.egg-info/not-zip-safe
+Gadget_World.egg-info/requires.txt
+Gadget_World.egg-info/top_level.txt
